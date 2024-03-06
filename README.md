@@ -22,7 +22,7 @@ The program features:
 The default hyperparmaters for the model are 2000 features and a tree count of 500.
 
 Optonal keyword arguments: (can be used together or seperatley)
-  -f creates a development set to test for which is the optimal number of features to include in the model (max features = 4520). The best   
+  -f creates a development set to test for which is the optimal number of features to include in the model. The best   
      perfroming number of features is then automaticaly selected from the dataset for the final model.
   -t creates a development set and finds the accuracy for each of the number of trees sizes defined in the trees array . The best   
      perfroming number of trees is then automaticaly selected from the dataset for the final model.
