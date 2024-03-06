@@ -1,6 +1,8 @@
 # CMT316
 A Random forrest classifier model for classifying BBC news articles into 5 separate categories.
 
+In order to run the dataset needs to be in the same folder as the program datset found at: https://huggingface.co/datasets/SetFit/bbc-news
+
 Required modules:
   -numpy
   -nltk
